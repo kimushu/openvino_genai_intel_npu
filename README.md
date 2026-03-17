@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Download the model locally by the following command
 
 ```bash
-huggingface-cli download OpenVINO/Qwen3-8B-int4-cw-ov --local-dir Qwen3-8B-NPU-Model
+hf download OpenVINO/Qwen3-8B-int4-cw-ov --local-dir Qwen3-8B-Instruct-NPU-Model
 ```
 - This will create a folder Qwen3-8B-NPU-Model with the OpenVINO-optimized model.
 
