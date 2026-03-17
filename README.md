@@ -63,6 +63,8 @@ Running the Qwen 3-8B model on my [ASUS Vivobook S16 OLED with Intel Core Ultra 
 ---
 
 ## 📸 Demo
-<img width="1920" height="1080" alt="Screenbox_20251128_001106" src="https://github.com/user-attachments/assets/85bb9513-c760-44f0-990f-420bc9d0d40a" />
+<img width="2988" height="1455" alt="image" src="https://github.com/user-attachments/assets/c437f303-0cc2-4c8f-aab3-cb6061e33e65" />
 
 ---
+
+
