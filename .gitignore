@@ -3,3 +3,6 @@ models/
 
 # Ignore Python's virtual environment folder
 llm/
+
+# Ignore python cache files
+__pycache__
